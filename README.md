@@ -24,5 +24,4 @@ The guild Fairy Tail is named Fairy Tail because of the mystery of whether or no
 14. Gildarts Clive
 15. Cana Alberona
 
-![alt text](![562222](https://user-images.githubusercontent.com/120329371/206919847-ff323d26-1fab-4a83-a06a-8711546f92a0.png)
-)
+
