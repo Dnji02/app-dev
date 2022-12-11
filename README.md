@@ -47,6 +47,6 @@ Thunder wizzard/Dragon Slayer - Second Generation Lightning Dragon Slayer and an
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # *If you want to go in a world full of magic you can watch it [here!](https://9anime.vc/) by typing the title "Fairy tail".*
 -------------------------------------------------------------------------------------------------------------------------------------------------
-# *Be part of our Guild!*
 
 ![Fairy 1](https://user-images.githubusercontent.com/120329371/206922398-c5052db1-9d14-423a-ad0a-44a9266f7e6a.jpeg)
+                                           # *Be part of our Guild!*
