@@ -1,4 +1,5 @@
-# Fairy Tail
+                                                                                   # Fairy Tail
+![562222](https://user-images.githubusercontent.com/120329371/206920033-c3c4a33c-d96d-4111-bab2-7d64af66a595.png)
 *Story*
 
 Fairy Tail is a shounen manga series by Mashima Hiro that started August 23, 2006. A Fairy Tail anime, produced by A-1 Pictures and Satelight was created on October 12, 2009.
@@ -24,5 +25,5 @@ The guild Fairy Tail is named Fairy Tail because of the mystery of whether or no
 14. Gildarts Clive
 15. Cana Alberona
 
-![562222](https://user-images.githubusercontent.com/120329371/206920033-c3c4a33c-d96d-4111-bab2-7d64af66a595.png)
+
 
