@@ -38,7 +38,7 @@ The guild Fairy Tail is named Fairy Tail because of the mystery of whether or no
 Thunder wizzard/Dragon Slayer - Second Generation Lightning Dragon Slayer and an S-Class Knight of the Grand Alliance. He is also the grandson of Makarov Dreyar.
 14. Gildarts Clive
 - Crush Magic - Gildarts is a laid-back, kind and easygoing person who has great interest and the utmost faith in the new generation of Fairy Tail's Mages.
-15. Cana Alberona
+15. **Cana Alberona**
 - Card magic wizzard - As a very young girl, Cana came to Fairy Tail after the death of her mother to find her father, Gildarts Clive, who was a member of Fairy Tail.
 
 
