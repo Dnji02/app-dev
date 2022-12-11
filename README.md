@@ -42,4 +42,4 @@ Thunder wizzard/Dragon Slayer - Second Generation Lightning Dragon Slayer and an
 - Card magic wizzard - As a very young girl, Cana came to Fairy Tail after the death of her mother to find her father, Gildarts Clive, who was a member of Fairy Tail.
 
 
-[title]((https://9anime.vc/))
+[Fairy Tail]((https://9anime.vc/.com))
