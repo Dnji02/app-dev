@@ -1,4 +1,4 @@
- # **"Fairy Tail 🧚"**
+ # ==**"Fairy Tail 🧚"**==
 
 ![562222](https://user-images.githubusercontent.com/120329371/206920033-c3c4a33c-d96d-4111-bab2-7d64af66a595.png)
 *Story*
@@ -41,5 +41,5 @@ Thunder wizzard/Dragon Slayer - Second Generation Lightning Dragon Slayer and an
 15. **Cana Alberona**
 - Card magic wizzard - As a very young girl, Cana came to Fairy Tail after the death of her mother to find her father, Gildarts Clive, who was a member of Fairy Tail.
 
-|-----------------------------------------------------------|--------------------------------------------------|
+
 
