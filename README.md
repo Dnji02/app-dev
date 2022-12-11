@@ -1,5 +1,5 @@
 # Fairy Tail
-*italicized text* Anime
+*Story*
 
 Fairy Tail is a shounen manga series by Mashima Hiro that started August 23, 2006. A Fairy Tail anime, produced by A-1 Pictures and Satelight was created on October 12, 2009.
 
