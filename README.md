@@ -49,4 +49,4 @@ Thunder wizzard/Dragon Slayer - Second Generation Lightning Dragon Slayer and an
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Fairy 1](https://user-images.githubusercontent.com/120329371/206922398-c5052db1-9d14-423a-ad0a-44a9266f7e6a.jpeg)
-                                           # *Be part of our Guild!*
+ # middle *Be part of our Guild!*
