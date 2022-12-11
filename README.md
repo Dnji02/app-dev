@@ -11,20 +11,35 @@ The guild Fairy Tail is named Fairy Tail because of the mystery of whether or no
 
 # Fairy Tail Characters
 1. Natsu Dragneel
+- Fire Wizzard/Dragon Slayer
 2. Zeref Dragneel
+- Dark Wizzard
 3. Mavis Vermillion
+- First Master/Powerful creator of Fairy magic
 4. Erza Scarlet
+- Requip Magic
 5. Gray Fullbuster
+- Ice Magic
 6. Lucy Heartfila
+- Celestial Wizzard
 7. Wendy Marvell
+- Wind wizzard/Dragon Slayer
 8. Mirajane Strauss
+- Demonic equip magic
 9. Makarov Dreyar
+- 5th Master/ Powerful wizzard
 10. Juvia Lockser
+- Water magic
 11. Elfman Strauss
+- Beast equip Magic
 12. Lissana Strauss
+- Anima equip magic
 13. Laxus Dreyas
+Thunder wizzard/Dragon Slayer
 14. Gildarts Clive
+- Crush Magic
 15. Cana Alberona
+- Card magic wizzard
 
 
 
