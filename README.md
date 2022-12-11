@@ -23,3 +23,6 @@ The guild Fairy Tail is named Fairy Tail because of the mystery of whether or no
 13. Laxus Dreyas
 14. Gildarts Clive
 15. Cana Alberona
+
+![![562222](https://user-images.githubusercontent.com/120329371/206919792-d759fd84-de38-43b4-a736-13027e9fdbce.png)
+](image.jpg)
